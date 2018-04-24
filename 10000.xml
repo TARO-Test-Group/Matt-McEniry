@@ -11,22 +11,20 @@
                     Southwest Collection/Special Collections Library</subtitle>
                 <author>Dixon, Katelin - test number 3</author>
             </titlestmt>
-            <publicationstmt>
-                <publisher>The Southwest Collection/Special Collections
-                    Library</publisher>
-                <address>
-          <addressline>The Southwest Collection/Special Collections
-				Library</addressline>
-          <addressline>Texas Tech University</addressline>
-          <addressline>MS 41041</addressline>
-          <addressline>Lubbock, Texas 79409</addressline>
-          <addressline>Phone: (806) 742-3749</addressline>
-          <addressline>Fax: (806) 742-0496</addressline>
-          <addressline>Webpage: http://swco.ttu.edu/</addressline>
-          <addressline>Contact Person: Reference Archivist</addressline>
-        </address>
-                <date era="ce" calendar="gregorian">December 2017</date>
-            </publicationstmt>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
         </filedesc>
         <profiledesc>
             <creation>Text converted and initial EAD tagging provided by Katelin Dixon, Southwest Collection/Special Collections Library,                
@@ -565,28 +563,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>    
       </c01>
-              
-      <c01 id="ser6" level="series"> <did>
-            <unittitle>Oversized Field Paintings in Oil</unittitle>
-          </did>
-      <c02 level="file"> <did>
-            <container type="box">5</container>
-            <container type="item">1-11</container>
-            <unittitle>Miscellaneous landscapes in oil, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
-          </did>
-        </c02>   
-      </c01>
-      <c01 id="ser7" level="series"> <did>
-            <unittitle>Oversized Sketchbooks</unittitle>
-          </did>     
-      <c02 level="file"> <did>
-            <container type="box">6</container>
-            <unittitle>2 sketchbooks, miscellaneous loose sketchbook pages, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
-          </did>
-        </c02>  
-      </c01>
+
             
       </dsc>
    </archdesc>
